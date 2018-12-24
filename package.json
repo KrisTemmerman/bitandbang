@@ -1,6 +1,6 @@
 {
   "name": "kristemmerman",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "description": "A personal card for Kris Temmerman (@kristemmerman)",
   "main": "/bin/card.js",
   "bin": {
